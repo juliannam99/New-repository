@@ -1,4 +1,4 @@
-# New-repository, this is the title now
+# New-repository
 
 
 here we are, I missed this step and just clicked finish
